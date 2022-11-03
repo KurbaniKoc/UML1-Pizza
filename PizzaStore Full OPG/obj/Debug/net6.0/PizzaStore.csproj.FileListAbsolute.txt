@@ -1,0 +1,15 @@
+C:\Users\kurba\Desktop\SoftwareDesign\bin\Debug\net6.0\PizzaStore.exe
+C:\Users\kurba\Desktop\SoftwareDesign\bin\Debug\net6.0\PizzaStore.deps.json
+C:\Users\kurba\Desktop\SoftwareDesign\bin\Debug\net6.0\PizzaStore.runtimeconfig.json
+C:\Users\kurba\Desktop\SoftwareDesign\bin\Debug\net6.0\PizzaStore.dll
+C:\Users\kurba\Desktop\SoftwareDesign\bin\Debug\net6.0\PizzaStore.pdb
+C:\Users\kurba\Desktop\SoftwareDesign\obj\Debug\net6.0\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\kurba\Desktop\SoftwareDesign\obj\Debug\net6.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Desktop\SoftwareDesign\obj\Debug\net6.0\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\kurba\Desktop\SoftwareDesign\obj\Debug\net6.0\PizzaStore.AssemblyInfo.cs
+C:\Users\kurba\Desktop\SoftwareDesign\obj\Debug\net6.0\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Desktop\SoftwareDesign\obj\Debug\net6.0\PizzaStore.dll
+C:\Users\kurba\Desktop\SoftwareDesign\obj\Debug\net6.0\refint\PizzaStore.dll
+C:\Users\kurba\Desktop\SoftwareDesign\obj\Debug\net6.0\PizzaStore.pdb
+C:\Users\kurba\Desktop\SoftwareDesign\obj\Debug\net6.0\PizzaStore.genruntimeconfig.cache
+C:\Users\kurba\Desktop\SoftwareDesign\obj\Debug\net6.0\ref\PizzaStore.dll
